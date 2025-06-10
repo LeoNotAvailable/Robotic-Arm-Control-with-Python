@@ -1,4 +1,4 @@
-# Robotic-Arm-Control-with-Python
+# Robotic-Arm-Control-with-Python,-AI-and-Visualization
 This project allows you to control a 5-servo robotic arm using Python and an ESP32 (STEAMakers, MicroPython). Includes a Tkinter GUI, real-time manual control, sequence recording/playback, voice and text command execution, and a basic 3D simulation to visualize movements.
 
 This project began as an attempt to improve communication between a controlling app and a robotic arm. Initially, it was a simple Bluetooth communication between an App Inventor app and an ESP32 STEAMakers board programmed with ArduinoBlocks. The project now includes all these features:
